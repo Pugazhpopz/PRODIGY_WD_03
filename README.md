@@ -60,6 +60,4 @@ Contributions to this project are highly appreciated! To contribute, follow thes
 
 ## Author
 
-Himanshu Maurya.
-
-Enjoy playing Tic-Tac-Toe and may the best strategist win!
+Pugazhvanan P
